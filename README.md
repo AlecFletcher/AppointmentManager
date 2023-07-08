@@ -1,10 +1,10 @@
 # AppointmentManager
 Winforms program that manages appointments and customers from a linked MySQL database.
 
-<h1>Login Form</h1> <br>
+<h1>Login Form</h1>
 <img src="https://i.imgur.com/pWdDau7.png"> <br>
 
-<h1>Calendar View</h1><br>
+<h1>Calendar View</h1>
 <h2>Upon logging in, you will see a calendar view showing the number of appointments scheduled for the respective day as well as be alerted for appointments that are scheduled within the next 15 minutes.</h2> <br>
 <img src="https://i.imgur.com/IfCn6Zj.png"> <br> <br> 
 
