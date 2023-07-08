@@ -1,0 +1,66 @@
+User 'test' added appointment ID: 11. Title: qwerty. User ID: 1. Description: qwerty. Location: qwerty. Contact: qwerty. Type: qwerty. URL: qwerty. Start: 6/6/2023 10:07:00 PM. End: 6/6/2023 11:07:00 PM. Create date: 6/2/2023 10:07:50 PM
+User 'test' added appointment ID: 10. Title: asdf. User ID: 1. Description: asdf. Location: asdf. Contact: asdf. Type: asdf. URL: asdf. Start: 6/5/2023 6:43:00 PM. End: 6/5/2023 7:43:00 PM. Create date: 6/3/2023 7:43:41 PM
+User 'test' added country ID: 6 Country: 6. Create date: 6/4/2023 8:54:08 PM.
+User 'test' added city ID: 8. City: zxcv. Country ID: 6. Create date: 6/4/2023 8:54:08 PM
+User 'test' added address ID: 9. Address: zxcv. Address 2: zxcv. City ID: 8. Postal Code: zxcv. Phone: 8675309. Create date: 6/4/2023 8:54:08 PM.
+User 'test' added customer ID: 7. Name: zxcv. AddressId: 9. Create date: 6/4/2023 8:54:08 PM
+UserID: 1, Username: test succesfully logged in at: 6/5/2023 9:57:17 PM UTC
+UserID: 1, Username: test succesfully logged in at: 6/5/2023 10:08:20 PM UTC
+User 'test' added country ID: 6 Country: 6. Create date: 6/5/2023 10:08:40 PM.
+User 'test' added city ID: 8. City: qwer. Country ID: 6. Create date: 6/5/2023 10:08:40 PM
+User 'test' added address ID: 9. Address: qwer. Address 2: qwer. City ID: 8. Postal Code: 12345678910. Phone: 1234. Create date: 6/5/2023 10:08:40 PM.
+User 'test' added customer ID: 7. Name: qwer. AddressId: 9. Create date: 6/5/2023 10:08:40 PM
+UserID: 1, Username: test succesfully logged in at: 6/5/2023 10:11:22 PM UTC
+User 'test' added country ID: 7 Country: 7. Create date: 6/5/2023 10:11:45 PM.
+User 'test' added city ID: 9. City: qwer. Country ID: 7. Create date: 6/5/2023 10:11:45 PM
+User 'test' added address ID: 9. Address: qwer. Address 2: qwer. City ID: 9. Postal Code: 12345678910. Phone: 1234. Create date: 6/5/2023 10:11:45 PM.
+User 'test' added customer ID: 7. Name: qwer. AddressId: 9. Create date: 6/5/2023 10:11:45 PM
+UserID: 1, Username: test succesfully logged in at: 6/5/2023 10:15:50 PM UTC
+User 'test' added country ID: 8 Country: 8. Create date: 6/5/2023 10:16:07 PM.
+User 'test' added city ID: 10. City: qwer. Country ID: 8. Create date: 6/5/2023 10:16:07 PM
+User 'test' added address ID: 9. Address: qwer. Address 2: qwer. City ID: 10. Postal Code: 12345678910. Phone: 1234. Create date: 6/5/2023 10:16:07 PM.
+User 'test' added customer ID: 7. Name: qwer. AddressId: 9. Create date: 6/5/2023 10:16:07 PM
+UserID: 1, Username: test succesfully logged in at: 6/5/2023 10:16:43 PM UTC
+User 'test' added country ID: 9 Country: 9. Create date: 6/5/2023 10:16:58 PM.
+User 'test' added city ID: 11. City: qwer. Country ID: 9. Create date: 6/5/2023 10:16:58 PM
+User 'test' added address ID: 9. Address: qwer. Address 2: qwer. City ID: 11. Postal Code: 123412341234. Phone: 1234. Create date: 6/5/2023 10:16:58 PM.
+User 'test' added customer ID: 7. Name: qwer. AddressId: 9. Create date: 6/5/2023 10:16:58 PM
+UserID: 1, Username: test succesfully logged in at: 6/5/2023 10:17:34 PM UTC
+User 'test' added country ID: 10 Country: 10. Create date: 6/5/2023 10:17:48 PM.
+User 'test' added city ID: 12. City: qwer. Country ID: 10. Create date: 6/5/2023 10:17:48 PM
+User 'test' added address ID: 9. Address: qwer. Address 2: qwer. City ID: 12. Postal Code: 123412341234. Phone: 1234. Create date: 6/5/2023 10:17:48 PM.
+User 'test' added customer ID: 7. Name: qwer. AddressId: 9. Create date: 6/5/2023 10:17:48 PM
+UserID: 1, Username: test succesfully logged in at: 6/5/2023 10:21:03 PM UTC
+User 'test' added country ID: 11 Country: 11. Create date: 6/5/2023 10:21:14 PM.
+User 'test' added city ID: 13. City: qwer1. Country ID: 11. Create date: 6/5/2023 10:21:14 PM
+User 'test' added address ID: 9. Address: wer. Address 2: qwer. City ID: 13. Postal Code: 123412341. Phone: 1234. Create date: 6/5/2023 10:21:14 PM.
+User 'test' added customer ID: 7. Name: qwerq. AddressId: 9. Create date: 6/5/2023 10:21:14 PM
+User 'test' added country ID: 12 Country: 12. Create date: 6/5/2023 10:21:32 PM.
+User 'test' added city ID: 14. City: qwer. Country ID: 12. Create date: 6/5/2023 10:21:32 PM
+User 'test' added address ID: 10. Address: qwer. Address 2: qwer. City ID: 14. Postal Code: 1234123412341234. Phone: 12341234. Create date: 6/5/2023 10:21:32 PM.
+User 'test' added customer ID: 8. Name: qwer. AddressId: 10. Create date: 6/5/2023 10:21:32 PM
+UserID: 1, Username: test succesfully logged in at: 6/5/2023 10:23:32 PM UTC
+User 'test' added country ID: 13 Country: 13. Create date: 6/5/2023 10:23:43 PM.
+User 'test' added city ID: 15. City: qwer. Country ID: 13. Create date: 6/5/2023 10:23:43 PM
+User 'test' added address ID: 10. Address: qwer. Address 2: qwer. City ID: 15. Postal Code: 123412341234. Phone: 1234. Create date: 6/5/2023 10:23:43 PM.
+User 'test' added customer ID: 8. Name: asdf. AddressId: 10. Create date: 6/5/2023 10:23:43 PM
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 2:48:59 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 2:51:24 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 2:52:04 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 2:53:06 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:01:29 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:02:23 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:25:26 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:26:20 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:29:38 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:31:36 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:33:03 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:34:26 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:35:07 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:36:01 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:36:33 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:36:58 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:37:18 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:37:41 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:42:18 AM UTC
+UserID: 1, Username: test succesfully logged in at: 6/7/2023 3:45:24 AM UTC
